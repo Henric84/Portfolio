@@ -559,35 +559,35 @@ text-align: center;
 }
 
 #img-01:checked ~ .image-bg {
-  background-image: url(/Images/Loop1.png);
+  background-image: url(../Images/Loop1.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #img-02:checked ~ .image-bg {
-  background-image: url(/Images/Loop2.png);
+  background-image: url(../Images/Loop2.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #img-03:checked ~ .image-bg {
-  background-image: url(/Images/Loop3.png);
+  background-image: url(../Images/Loop3.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #img-04:checked ~ .image-bg {
-  background-image: url(/Images/Loop4.png);
+  background-image: url(../Images/Loop4.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #img-05:checked ~ .image-bg {
-  background-image: url(/Images/Loop5.png);
+  background-image: url(../Images/Loop5.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
